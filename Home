@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <link rel="stylesheet" href="D:/Website/CSS/Color_Website_Home.css"/>
+  <title>Stellar Quest Studios</title>
+</head>
+<body>
+  <button class="game-button">Games</button>
+  <h1>Hello, I'm Nathan and I am the head leader of Stellar Quest</h1>
+  <h2>About Stellar Quest</h2>
+  <p>Stellar Quest Studios is a game development company. We are in development of a sci-fi realistic survival game called "Mythical Survivor".</p>
+  
+  <script src="D:/Website/JavaScript/Website.js"></script>
+</body>
+</html>
